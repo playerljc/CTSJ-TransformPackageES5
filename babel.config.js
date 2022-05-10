@@ -6,11 +6,9 @@ const presets = [
       modules: 'auto',
       corejs: { version: 3, proposals: true },
     },
-  ]
+  ],
 ];
 
-const plugins = [
-
-];
+const plugins = [];
 
 module.exports = { presets, plugins };
