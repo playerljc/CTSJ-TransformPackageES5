@@ -8,7 +8,10 @@ const outputpath = argsMap.get('--outputpath')[0];
 const compilePath = argsMap.get('--compilepath')[0];
 
 const copyexts = [
+  'md',
+  'html',
   'less',
+  'sass',
   'css',
   'svg',
   'jpg',
@@ -20,7 +23,17 @@ const copyexts = [
   'eot',
   'woff',
   'ttf',
-  'html',
+  'xml',
+  'yml',
+  'yaml',
+  'mp4',
+  'avi',
+  'mp3',
+  'rmvb',
+  'ico',
+  'map',
+  'woff2',
+  'txt',
 ];
 
 /**
