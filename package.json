@@ -1,6 +1,6 @@
 {
   "name": "@ctsj/transform-package-es5",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "对package进行es5的转换",
   "bin": {
     "ctpe": "./bin/index.js"
